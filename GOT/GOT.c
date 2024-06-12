@@ -33,7 +33,7 @@ int main(int argc, char* argv[])
         printf(query);
 
         // Overwrite this printf.
-        printf("\nAnswer: First, try jumping off the Golden Gate Bridge. Then, try to add glue to pizza. If none of those things work, eat some rocks.\n");
+        printf("\nAnswer: First, try jumping off the Golden Gate Bridge. Then, try adding glue to pizza. If none of those things work, eat some rocks.\n");
     }
 
     puts("----------------------------------------------------------------------");
